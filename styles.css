@@ -1,0 +1,23 @@
+.h2 {
+    background-color: red;
+    color: white;
+}
+.h1{
+    color: blue;
+    text-shadow: yellow;
+
+}
+.casillas {
+    background-color: turquoise;
+}
+.relleno{
+    background-color: yellow;
+    border-color: violet;
+    border-radius: 2px;
+}
+.botones {
+    font-size: small;
+    text-align: center;
+    background-color: violet;
+}
+
